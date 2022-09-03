@@ -9,9 +9,9 @@ from pandas import DataFrame
 import datetime
 import re
 import csv #csv 파일 읽기
-from PyQt5.QtTest import *
+from PyQt5.QtTest import * #time.sleep 대신 이걸 써야지 이벤트 블락부분이 확실해짐
 import pandas as pd
-from pandas import Series, DataFrame
+from pandas import Series, DataFrame 
 import numpy as np
 
 # import type
