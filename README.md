@@ -1,5 +1,5 @@
 # MakingMoney
-pytrader.py가 메인코드입니다!
+pytrader.py,Kiwoom,pytrader.ui,buy,sell_list가 메인코드입니다!
 
 Update pytrader.py
 0902
